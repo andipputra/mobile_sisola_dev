@@ -37,6 +37,7 @@ dependencies:
   sqflite: ^2.0.0+3 #sql (database)
   provider: ^5.0.0 #provider untuk statemanagement
   intl: ^0.17.0 #pembantu untuk mengenali tempat dll
+  crypto: ^3.0.0 #convert to sha
 
 
 dev_dependencies:
